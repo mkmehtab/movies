@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/7Anl0ih.jpeg" alt="Mk-Auto-filter">
 </p>
 <h1 align="center">
-  <a href="https://telegram.me/JISSHU_BOTS">Movie/Auto Filter Bot</a>
+  <a href="https://t.me/+-aTPIz1FyCAwNzg1">Movie/Auto Filter Bot</a>
 </h1>
 <img src="https://cdn.jsdelivr.net/gh/Jisshubot/Jisshubot/resources/hr.gif"/>
 
