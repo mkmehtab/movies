@@ -9,7 +9,7 @@
 ## **𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠**
 
 `/commands` Enter this command inside the bot and all the commands will be set automatically.
-<img src="https://i.imgur.com/7Anl0ih.jpeg"/>
+<img src=""/>
 
 ## **Futures**
 <details><summary>Check Bot Futures</summary>
