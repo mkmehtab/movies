@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-import json
+import jsoj
 
 def hdhub4u_scraper(movie_name):
     # HDHub4U URL (Search page)
